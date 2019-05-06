@@ -1,6 +1,6 @@
 # unit_converter
 
-A new Flutter project.
+Unit converter - Flutter project.
 
 ## Getting Started
 
